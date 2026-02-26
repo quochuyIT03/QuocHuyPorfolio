@@ -70,7 +70,7 @@ export const ContactSection = () => {
                                 <h4 className='font-medium'>
                                     Location
                                 </h4>
-                                <a className='text-muted-foreground hover:text-primary transition-colors'> Ben Luc commune, Tay Ninh Province </a>
+                                <a className='text-muted-foreground hover:text-primary transition-colors'> Ho Chi Minh city</a>
                             </div>
                         </div>
 

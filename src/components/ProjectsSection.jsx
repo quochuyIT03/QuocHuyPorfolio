@@ -5,7 +5,7 @@ const projects = [
     {
         id: 1, 
         title: "My Porfolio",
-        description: "Description", 
+        description: "A responsive developer portfolio built with ReactJS to present technical skills, featured projects, and professional background.", 
         image: "/public/projectImages/project1.png", 
         tags: ["Reactjs", "Tailwindcss"], 
         demoUrl:"https://quoc-huy-porfolio-3102.vercel.app/", 
@@ -14,8 +14,8 @@ const projects = [
     {
         id: 2, 
         title: "Oasis Vegetable Website",
-        description: "Description", 
-        image: "", 
+        description: "A full-stack MERN e-commerce platform with authentication, role-based authorization, product CRUD operations, image uploads, and dynamic product filtering.", 
+        image: "/public/projectImages/project2.jpg", 
         tags: ["Reactjs","Nodejs","MongoDB"], 
         demoUrl:"#", 
         githubUrl: "https://github.com/quochuyIT03/vegetableApp", 
@@ -23,7 +23,7 @@ const projects = [
     {
         id: 3, 
         title: "Clothing Boutique",
-        description: "Frontend Developer", 
+        description: "A ReactJS e-commerce frontend integrated with RESTful APIs using Axios, featuring dynamic product rendering and client-side routing.", 
         image: "/public/projectImages/project3.png", 
         tags: ["Reactjs","Nodejs","MongoDB", "Tailwindcss"], 
         demoUrl:"#", 
@@ -32,11 +32,11 @@ const projects = [
     {
         id: 4,
         title: "Villa Booking Website",
-        description: "Frontend Developer", 
-        image: "/public/projectImages/project3.png", 
+        description: "A ReactJS-based villa booking application with structured component architecture, React Router navigation, and integrated Weather API for dynamic location-based data.", 
+        image: "/public/projectImages/project4.jpg", 
         tags: ["Reactjs","Nodejs"], 
-        demoUrl:"#", 
-        githubUrl: "#", 
+        demoUrl:"https://villa-booking-frontend-five.vercel.app/", 
+        githubUrl: "https://github.com/quochuyIT03/Villa-booking-frontend", 
     },
 ]
 
