@@ -8,7 +8,7 @@ export const LightBackground = () => {
       <div className="absolute inset-0 light-sky" />
 
       <div className="light-blob w-125 h-125 bg-blue-300 -top-25 -left-25" />
-
+    
       <div
         className="light-blob w-150 h-150 bg-purple-300 -bottom-37.5 -right-37.5"
         style={{ animationDelay: "4s" }}
