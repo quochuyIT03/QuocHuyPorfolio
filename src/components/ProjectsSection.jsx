@@ -26,8 +26,8 @@ const projects = [
         description: "A ReactJS e-commerce frontend integrated with RESTful APIs using Axios, featuring dynamic product rendering and client-side routing.", 
         image: "./projectImages/project3.png", 
         tags: ["Reactjs","Nodejs","MongoDB", "Tailwindcss"], 
-        demoUrl:"#", 
-        githubUrl: "#", 
+        demoUrl:"https://clothing-boutique.vercel.app/", 
+        githubUrl: "https://github.com/quochuyIT03/ClothingBoutique", 
     },
     {
         id: 4,
