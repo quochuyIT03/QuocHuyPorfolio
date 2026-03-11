@@ -38,6 +38,15 @@ const projects = [
         demoUrl:"https://villa-booking-frontend-five.vercel.app/", 
         githubUrl: "https://github.com/quochuyIT03/Villa-booking-frontend", 
     },
+    {
+        id: 5,
+        title: "To do app",
+        description: "A full-stack Todo application built with the MERN stack that allows users to create, update, complete, and delete tasks. The app supports task filtering, pagination, and date-based queries. It features a modern UI built with Tailwind CSS and Shadcn UI, while the backend is powered by Node.js and MongoDB for efficient task management.", 
+        image: "./projectImages/project5.png", 
+        tags: ["React" , "Node" , "MongoDB" , "Tailwind 4" , "Shadcn"], 
+        demoUrl:"https://todoapp-99vd.onrender.com/", 
+        githubUrl: "https://github.com/quochuyIT03/todoApp", 
+    },
 ]
 
 export const ProjectsSection = () => {
