@@ -47,6 +47,15 @@ const projects = [
         demoUrl:"https://todoapp-99vd.onrender.com/", 
         githubUrl: "https://github.com/quochuyIT03/todoApp", 
     },
+    {
+        id: 6,
+        title: "Hotel Booking App",
+        description: "A comprehensive full-stack booking platform developed using the MERN stack. The application features a robust role-based access control (RBAC) system for Users and Admins, secure JWT authentication, and seamless media management integrated with Cloudinary. Users can search and book hotels, while the Admin dashboard provides full CRUD capabilities for hotel listings and room management.", 
+        image: "./projectImages/project6.png", 
+        tags: ["React", "Node.js", "MongoDB", "Express", "Tailwind 4", "Shadcn UI"], 
+        demoUrl:"https://hotelbookingweb-1.onrender.com/", 
+        githubUrl: "https://github.com/quochuyIT03/HotelBookingWeb", 
+    },
 ]
 
 export const ProjectsSection = () => {
